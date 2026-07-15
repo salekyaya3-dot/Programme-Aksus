@@ -4,7 +4,7 @@ Merci d'intéresser à la contribution à AKSUS 1! Ce guide vous aidera à contr
 
 ## Code de Conduite
 
-Nous nous engageons à maintenir un environnement de travail inclusif et respectueux.
+Nous nous engageons à maintenir un environnement de travail inclusif, technologique, innovant, ecologique et respectueux.
 
 ## Comment Contribuer
 
@@ -18,7 +18,7 @@ cd aksus-program
 ### 2. Créer une Branche
 
 ```bash
-git checkout -b feature/AK-ADTECH-innocation
+git checkout -b feature/AK-ADTECH-innovation
 ```
 
 ### 3. Faire des Commits
