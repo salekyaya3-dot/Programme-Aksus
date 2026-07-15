@@ -11,14 +11,14 @@ Nous nous engageons à maintenir un environnement de travail inclusif et respect
 ### 1. Fork le Projet
 
 ```bash
-git clone https://github.com/votre-username/aksus-programe.git
-cd aksus-programe
+git clone https://github.com/votre-username/aksus-program.git
+cd aksus-program
 ```
 
 ### 2. Créer une Branche
 
 ```bash
-git checkout -b feature/AK-XXX-description
+git checkout -b feature/AK-ADTECH-innocation
 ```
 
 ### 3. Faire des Commits
@@ -39,7 +39,7 @@ git commit -m "feat: description de la fonctionnalité"
 ### 4. Push et Pull Request
 
 ```bash
-git push origin feature/AK-XXX-description
+git push origin feature/AK-ADTECH-innovation
 ```
 
 Créez une Pull Request sur GitHub avec une description détaillée.
@@ -83,6 +83,6 @@ Mettez à jour la documentation si vous changez:
 
 ## Questions?
 
-Créez une issue ou contactez l'équipe AKSUS.
+Créez une issue ou contactez l'équipe AKSUS-PROJECT de AD-Tech.
 
 Merci pour votre contribution! 🙏
